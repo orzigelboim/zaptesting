@@ -1,19 +1,19 @@
 <STORE>
-<PRODUCTS>
-<PRODUCT>
-<PRODUCT_URL>https://testa.zapshop.co.il/product/39948</PRODUCT_URL>
-<PRODUCTCODE>39948</PRODUCTCODE>
-<PRODUCT_NAME>Test Product</PRODUCT_NAME>
-<MODEL>123456</MODEL>
-<DETAILS>This is test Product</DETAILS>
-<CATALOG_NUMBER/>
-<PRICE>120.00</PRICE>
-<SHIPMENT_COST>15.00</SHIPMENT_COST>
-<DELIVERY_TIME>7</DELIVERY_TIME>
-<MANUFACTURER>Zap</MANUFACTURER>
-<WARRANTY/>
-<IMAGE>https://img.zapshop.co.il/e-zap/stores/111111/products/111111-12062019113418111.jpg</IMAGE>
-<PRODUCT_TYPE>0</PRODUCT_TYPE>
-</PRODUCT>
-</PRODUCTS>
+    <PRODUCTS>
+        <PRODUCT>
+            <PRODUCT_URL>https://newalexsander.myshopify.com/products/1-36l-meguiars-%D7%A9%D7%9E%D7%A4%D7%95-%D7%95%D7%95%D7%A7%D7%A1-%D7%9C%D7%A8%D7%9B%D7%91</PRODUCT_URL>
+            <PRODUCTCODE>12345</PRODUCTCODE>
+            <PRODUCT_NAME>1.36L Meguiar's שמפו ווקס לרכב</PRODUCT_NAME>
+            <MODEL>G17748</MODEL>
+            <DETAILS>Meguiar's Ultimate Wash & Wax, a 2-in-1 car shampoo and wax for cleaning and enhancing shine.</DETAILS>
+            <CATALOG_NUMBER>1-36L-Meguiars</CATALOG_NUMBER>
+            <PRICE>75</PRICE>
+            <SHIPMENT_COST>20</SHIPMENT_COST>
+            <DELIVERY_TIME>5</DELIVERY_TIME>
+            <MANUFACTURER>Meguiar's</MANUFACTURER>
+            <WARRANTY>None</WARRANTY>
+            <IMAGE>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-pFZu57eZhofgvc_nbwMVoF-O6VtP160Iug&s</IMAGE>
+            <PRODUCT_TYPE>0</PRODUCT_TYPE>
+        </PRODUCT>
+    </PRODUCTS>
 </STORE>
